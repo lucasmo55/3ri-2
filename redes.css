@@ -22,3 +22,11 @@ body{
     padding-left: 30px;
     
 }
+.home{
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 30px;
+    color: green;
+    padding-left: 30px;
+    
+}
